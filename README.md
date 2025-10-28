@@ -27,10 +27,6 @@ A professional Flutter e-commerce application demonstrating clean architecture p
 - **BLoC Pattern** - Predictable state management
 - **Dependency Injection** - Using GetIt for loose coupling
 - **API Integration** - Retrofit + Dio for type-safe networking
-- **Offline Support** - Cached network images
-- **Pull to Refresh** - Manual data refresh capability
-- **Error Handling** - Comprehensive error states with retry mechanism
-- **Responsive Design** - Adaptive UI for different screen sizes
 
 ## 🏛️ Architecture
 
