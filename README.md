@@ -93,7 +93,7 @@ flutter test test/unit/
 flutter test test/widget/
 
 # Integration tests
-flutter test integration_test/
+flutter test test/integration/
 ```
 
 
