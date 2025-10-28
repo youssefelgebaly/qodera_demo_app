@@ -1,0 +1,43 @@
+name: qodera_demo_app
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  cached_network_image: ^3.4.1
+  carousel_slider: ^5.1.1
+  cupertino_icons: ^1.0.8
+  dartz: ^0.10.1
+  dio: ^5.9.0
+  equatable: ^2.0.7
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  get_it: ^8.2.0
+  json_annotation: ^4.9.0
+  path_provider_platform_interface: ^2.1.2
+  plugin_platform_interface: ^2.1.8
+  retrofit: ^4.8.0
+  shimmer: null
+  skeletonizer: ^2.1.0+1
+dev_dependencies:
+  bloc_test: ^10.0.0
+  build_runner: ^2.7.1
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  json_serializable: ^6.11.1
+  mocktail: ^1.0.4
+  retrofit_generator: ^10.1.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
