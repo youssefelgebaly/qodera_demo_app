@@ -10,7 +10,7 @@ A professional Flutter e-commerce application demonstrating clean architecture p
 
 | Home Screen | Search | Product  |
 |-------------|--------|-----------------|
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Details](screenshots/details.png) |
+| ![Home](screenshots/home.jpg) | ![Search](screenshots/search.jpg) | ![Details](screenshots/details.jpg) |
 
 
 ## ✨ Features
